@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T03:44:21.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="8iej5PmvhDEzI0fiwXbI" type="github"><diagram id="RiHLdBR-tgqXhfmSLqBH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-24T04:12:19.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="h__JpXRl6zrHZ282fCCM" type="github">
+  <diagram id="v1UwNHZqhybcPdIe0aYs" name="Página-1">
+    <mxGraphModel dx="928" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YPLQPT9g77rA4HmJ-V6i-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YPLQPT9g77rA4HmJ-V6i-1" target="YPLQPT9g77rA4HmJ-V6i-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YPLQPT9g77rA4HmJ-V6i-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Inicio&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="125" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YPLQPT9g77rA4HmJ-V6i-2" value="Pegar a bala" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#9933FF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YPLQPT9g77rA4HmJ-V6i-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Fim&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=24;fillColor=#CCCCFF;" vertex="1" parent="1">
+          <mxGeometry x="125" y="590" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YPLQPT9g77rA4HmJ-V6i-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=24;fillColor=#CCCCFF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-20" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YPLQPT9g77rA4HmJ-V6i-12" value="Objetivo: chupar uma bala" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-20" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YPLQPT9g77rA4HmJ-V6i-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="YPLQPT9g77rA4HmJ-V6i-2" target="YPLQPT9g77rA4HmJ-V6i-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YPLQPT9g77rA4HmJ-V6i-14" value="Tirar a embalagem da bala" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#9933FF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="300" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YPLQPT9g77rA4HmJ-V6i-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="YPLQPT9g77rA4HmJ-V6i-2" target="YPLQPT9g77rA4HmJ-V6i-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="260" as="sourcePoint" />
+            <mxPoint x="170" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YPLQPT9g77rA4HmJ-V6i-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="YPLQPT9g77rA4HmJ-V6i-16" target="YPLQPT9g77rA4HmJ-V6i-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YPLQPT9g77rA4HmJ-V6i-16" value="Colocar bala na boca" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#9933FF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YPLQPT9g77rA4HmJ-V6i-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" edge="1" parent="1" source="YPLQPT9g77rA4HmJ-V6i-14" target="YPLQPT9g77rA4HmJ-V6i-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="360" as="sourcePoint" />
+            <mxPoint x="170" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YPLQPT9g77rA4HmJ-V6i-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YPLQPT9g77rA4HmJ-V6i-18" target="YPLQPT9g77rA4HmJ-V6i-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YPLQPT9g77rA4HmJ-V6i-18" value="Jogar embalagem no lixo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#9933FF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="490" width="130" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
