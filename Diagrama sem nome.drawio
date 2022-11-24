@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T04:12:19.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="h__JpXRl6zrHZ282fCCM" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T04:14:33.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="4QUGvCWAsZnVq11M9n90" type="github">
   <diagram id="v1UwNHZqhybcPdIe0aYs" name="Página-1">
-    <mxGraphModel dx="928" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1547" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="125" y="590" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YPLQPT9g77rA4HmJ-V6i-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=24;fillColor=#CCCCFF;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-20" width="50" height="40" as="geometry" />
+          <mxGeometry x="60" y="-20" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YPLQPT9g77rA4HmJ-V6i-12" value="Objetivo: chupar uma bala" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="105" y="-20" width="300" height="40" as="geometry" />
@@ -53,6 +53,9 @@
         </mxCell>
         <mxCell id="YPLQPT9g77rA4HmJ-V6i-18" value="Jogar embalagem no lixo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#9933FF;" vertex="1" parent="1">
           <mxGeometry x="110" y="490" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YPLQPT9g77rA4HmJ-V6i-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=24;fillColor=#CCCCFF;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-20" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
