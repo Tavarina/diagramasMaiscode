@@ -50,7 +50,7 @@ O que são cada símbolo do fluxograma?
 ![note](https://user-images.githubusercontent.com/82628962/203699962-3f276b73-8d0c-4491-a22f-369fb517e8bb.jpeg)
 
 
-
+![Trocando Pneu](https://user-images.githubusercontent.com/82628962/203703166-b012fd38-ba84-41fb-aac5-c889119d0838.jpeg)
 ![FluxogramaReceitaDeArroz](https://user-images.githubusercontent.com/82628962/203695463-4efc8260-0bcc-4d19-9d4c-b6701c90af1f.jpeg)
 ![fluxogramaChupandoumabala](https://user-images.githubusercontent.com/82628962/203693542-a7b0711a-19a9-4f0a-8b4b-bcc2d0beb776.jpeg)
 
