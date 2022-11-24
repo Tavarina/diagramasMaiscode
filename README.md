@@ -1,5 +1,5 @@
 # Intensivo MaisCode
-#Deveria
+#Devaria
 
 Estudos de fluxogramas :writing_hand:
 
